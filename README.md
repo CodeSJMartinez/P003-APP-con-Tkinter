@@ -80,7 +80,8 @@ Este código es un punto de partida simple. En otro proyecto se puede agregar m�
 ## Nota 1: Alternativas para desarrollar aplicaciones móviles en Python
 https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota01.md
 
-## Nota 2: 
+## Nota 2: Desarrollar y lanzar una aplicación móvil o de escritorio
+https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota02.md
 
 ## Nota 3: Bliblioteca Tkinter
 https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota03.md
