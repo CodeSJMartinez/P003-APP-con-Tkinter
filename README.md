@@ -74,3 +74,19 @@ root.mainloop()
 - Si prefieres una navegación más avanzada, puedes explorar el uso de `Frames` en lugar de nuevas ventanas para cada categoría.
 
 Este código es un punto de partida simple. En otro proyecto se puede agregar más complejidad, como conectar a bases de datos, o realizar acciones más avanzadas dentro de cada categoría, podemos ir expandiendo la aplicación según las necesidades.
+
+# Ver Notas adicionales
+
+## Nota 1: Alternativas para desarrollar aplicaciones móviles en Python
+https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota01.md
+
+## Nota 2: 
+
+## Nota 3: Bliblioteca Tkinter
+https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota03.md
+
+## Nota 4: Tkinter, la solución rápida y eficiente para construir GUIs simples
+https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota04.md
+
+## Nota 5: Subir aplicaciones móviles desarrolladas en Python a la Google Play Store
+https://github.com/CodeSJMartinez/P003-APP-con-Tkinter/blob/main/Notas/Nota05.md

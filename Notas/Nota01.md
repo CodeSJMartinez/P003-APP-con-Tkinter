@@ -1,3 +1,5 @@
+# Alternativas para desarrollar aplicaciones móviles en Python
+
 La aplicación que creamos utilizando **Tkinter** está diseñada para ejecutarse en entornos de escritorio, como Windows, macOS, o Linux, pero no es compatible con dispositivos móviles como Android o iOS. Tkinter no está diseñado para ser utilizado en plataformas móviles, ya que carece de soporte nativo para interfaces táctiles y otros elementos que son comunes en aplicaciones móviles.
 
 ### Alternativas para desarrollar aplicaciones móviles en Python

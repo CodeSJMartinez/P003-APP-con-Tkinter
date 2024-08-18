@@ -1,4 +1,6 @@
-Sí, puedes subir aplicaciones móviles desarrolladas en Python a la Google Play Store, pero hay algunos pasos y consideraciones que debes tener en cuenta para hacerlo, especialmente si usas frameworks como **Kivy** o **BeeWare**.
+# Subir aplicaciones móviles desarrolladas en Python a la Google Play Store
+
+Subir aplicaciones móviles desarrolladas en Python a la Google Play Store: Hay algunos pasos y consideraciones que debes tener en cuenta para hacerlo, especialmente si usas frameworks como **Kivy** o **BeeWare**.
 
 ### 1. **Desarrollo de Aplicaciones con Kivy y Subida a Play Store**
 
@@ -79,4 +81,4 @@ Sí, puedes subir aplicaciones móviles desarrolladas en Python a la Google Play
 
 ### **Resumen**
 
-Sí, puedes desarrollar y subir aplicaciones Python para Android a la Google Play Store utilizando frameworks como **Kivy** o **BeeWare**. Ambas herramientas permiten empaquetar aplicaciones Python como APKs que se pueden distribuir en la tienda. Kivy es generalmente más fácil de usar y tiene una comunidad más grande, por lo que es una buena opción si recién comienzas. Por otro lado, BeeWare ofrece una experiencia de usuario más nativa, pero puede ser más complejo de configurar.
+Puedes desarrollar y subir aplicaciones Python para Android a la Google Play Store utilizando frameworks como **Kivy** o **BeeWare**. Ambas herramientas permiten empaquetar aplicaciones Python como APKs que se pueden distribuir en la tienda. Kivy es generalmente más fácil de usar y tiene una comunidad más grande, por lo que es una buena opción si recién comienzas. Por otro lado, BeeWare ofrece una experiencia de usuario más nativa, pero puede ser más complejo de configurar.

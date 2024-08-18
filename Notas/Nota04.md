@@ -1,3 +1,5 @@
+# Tkinter, la solución rápida y eficiente para construir GUIs simples
+
 **Tkinter** es una excelente opción para ciertos tipos de aplicaciones y procesos debido a su simplicidad, ligereza, y facilidad de uso. A continuación, te detallo algunos escenarios donde **Tkinter** es ideal o útil:
 
 ### 1. **Herramientas de Escritorio Simples**
